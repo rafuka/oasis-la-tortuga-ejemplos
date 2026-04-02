@@ -37,7 +37,7 @@ export default function Home() {
           <p className="text-md uppercase mb-8">Oasis La Tortuga</p>
           <h2 className="text-3xl [font-family:var(--font-noto-serif)]">Diagn&oacute;stico</h2>
           <p className="max-w-xl text-lg leading-relaxed text-[#3c4947] mb-12">
-            Hay mucho potencial online para Oasis La Tortuga que no esta siendo aprovechadopara. El sitio web est&aacute; desactualizado, no tiene un sistema centralizado de reservas o booking online f&aacute;cil de acceder. Tiene una p&aacute;gina de Instagram que se podr&iacute;a potenciar con un poco m&aacute;s de estrategia de contenido y nutrici&oacute;n de la marca.
+            Hay mucho potencial online para Oasis La Tortuga que no esta siendo aprovechado. El sitio web est&aacute; desactualizado, no tiene un sistema centralizado de reservas o booking online f&aacute;cil de acceder. Tiene una p&aacute;gina de Instagram que se podr&iacute;a potenciar con un poco m&aacute;s de estrategia de contenido y nutrici&oacute;n de la marca.
           </p>
           <h2 className="text-3xl [font-family:var(--font-noto-serif)]">Propuesta</h2>
           <p className="max-w-xl text-lg leading-relaxed text-[#3c4947] mb-12">
