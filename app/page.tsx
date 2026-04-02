@@ -10,17 +10,17 @@ export const metadata: Metadata = {
 const examples = [
   {
     href: "/examples/dream-refuge",
-    title: "Dream Refuge Landing",
-    subtitle: "Luxury island escape",
+    title: "Ejemplo Pagina Web 1",
+    subtitle: "",
     detail:
-      "Full desktop layout from Stitch: hero, amenities, and booking cues with the project teal palette.",
+      "",
   },
   {
     href: "/examples/oasis",
-    title: "Oasis Landing Page",
-    subtitle: "Primary resort story",
+    title: "Ejemplo Pagina Web 2",
+    subtitle: "",
     detail:
-      "Alternate landing treatment from the same Stitch project — typography and Material symbols match the source screens.",
+      "",
   },
 ] as const;
 
@@ -29,16 +29,23 @@ export default function Home() {
     <div className="min-h-[100dvh] bg-[#f8f9fa] text-[#191c1d]">
       <main className="mx-auto flex max-w-2xl flex-col gap-10 px-6 py-16 sm:py-24">
         <header className="space-y-3">
-          <p className="text-sm font-medium tracking-wide text-[#006a64]">
-            Stitch project
-          </p>
-          <h1 className="text-4xl font-bold tracking-tight text-[#191c1d] sm:text-5xl [font-family:var(--font-noto-serif)]">
-            Oasis La Tortuga
+          <h1 className="text-2xl mb-12 tracking-tight text-[#191c1d] sm:text-5xl [font-family:var(--font-noto-serif)]">
+            Propuesta para infraestructura digital y estrategia de ventas para la posada Oasis La Tortuga
           </h1>
+          <h2 className="text-3xl [font-family:var(--font-noto-serif)]">Situaci&oacute;n actual</h2>
           <p className="max-w-lg text-lg leading-relaxed text-[#3c4947]">
-            Two landing-page examples, rendered from the exported HTML in your
-            Stitch project so they stay pixel-true to the designs.
+            La posada Oasis La Tortuga no tiene una infraestructura digital robusta. El sitio web esta desactualizado, no tiene un sistema centralizado de reservas y booking online. Tiene una pagina de Instagram con contenido pero no es optimizada para SEO y no tiene un sistema de marketing digital robusto.
           </p>
+          <h2 className="text-3xl [font-family:var(--font-noto-serif)]">Propuesta</h2>
+          <p className="max-w-lg text-lg leading-relaxed text-[#3c4947]">
+            Creamos la infraestructura: un sitio web moderno, optimizado para SEO, con un sistema centralizado de reservas y booking online, asi como optimizaci&oacute;n de la pagina de Instagram. Trazamos una estrategia de marketing digital y creaci&oacute;n de contenido que establezca la marca e identidad de la posada de manera consistente, y que &uacute;ltimamente atraiga a clientes y aumente las ganancias.
+          </p>
+          <h2 className="text-3xl [font-family:var(--font-noto-serif)]">Nuestra oferta</h2>
+          <p className="max-w-lg text-lg leading-relaxed text-[#3c4947]">
+            Creamos la infraestructura digital (pagina web optimizada, pagina de instagram optimizada, sistema de reservas online y embudos de venta) sin pago inicial. Una vez que desmostremos resultados positivos, podemos negociar una mensualidad para la ejecuci&oacute;n de la estrategia de marketing y contenido para social media, as&iacute; como el mantenimiento y optimizaci&oacute;n de la infraestructura digital.
+          </p>
+          <br/>
+          <p>A continuaci&oacute;n te mostramos un par de ejemplos de landing pages que creamos para la posada Oasis La Tortuga, para que te des una idea de la calidad de nuestro trabajo. Ten en cuenta que el resultado final ser&iacute;a incluso mejor, ya que puliriamos el dise&ntilde;o y el mensaje para que represente a la posada Oasis la Tortuga lo mejor posible</p>
         </header>
 
         <ul className="flex flex-col gap-4">
@@ -61,10 +68,10 @@ export default function Home() {
                     </p>
                   </div>
                   <span
-                    className="shrink-0 text-sm font-semibold text-[#006a64] opacity-0 transition group-hover:opacity-100"
+                    className="shrink-0 text-sm font-semibold text-[#006a64]"
                     aria-hidden
                   >
-                    Open →
+                    Click para visitar la pagina →
                   </span>
                 </div>
               </Link>
