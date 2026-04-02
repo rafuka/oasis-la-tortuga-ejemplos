@@ -38,11 +38,22 @@ export default function Home() {
           </p>
           <h2 className="text-3xl [font-family:var(--font-noto-serif)]">Propuesta</h2>
           <p className="max-w-lg text-lg leading-relaxed text-[#3c4947] mb-12">
-            Hay mucho potencial para crecimiento: proponemos crear un sitio web moderno, optimizado para SEO y dispositivos m&oacute;viles, con un sistema centralizado de reservas y booking online, as&iacute; como optimizaci&oacute;n de la p&aacute;gina de Instagram. Trazamos una estrategia de marketing digital y creaci&oacute;n de contenido que establezca la marca e identidad de la posada de manera consistente, y que &uacute;ltimamente atraiga a m&aacute;s clientes, aumente las ganancias, y establezca un sentido robusto de la marca.
+            Hay mucho potencial para crecimiento. En esencia, nosotros nos encargar&iacute;amos de optimizar los canales digitales para generar reservas, sin que ustedes tengan que preocuparse al respecto. Proponemos crear un sitio web moderno, optimizado para SEO y dispositivos m&oacute;viles, con un sistema centralizado de reservas y booking online, as&iacute; como optimizaci&oacute;n de la p&aacute;gina de Instagram. Trazamos una estrategia de marketing digital y creaci&oacute;n de contenido que establezca la marca e identidad de la posada de manera consistente, y que &uacute;ltimamente atraiga a m&aacute;s clientes, aumente las ganancias, y establezca un sentido robusto de la marca.
           </p>
           <h2 className="text-3xl [font-family:var(--font-noto-serif)]">Nuestra oferta</h2>
+          <p className="max-w-lg text-lg leading-relaxed text-[#3c4947] mb-2">
+            Creamos la infraestructura digital:
+          </p>
+          <ul className="mt-4 list-disc list-inside mb-4 text-[#3c4947] text-lg">
+            <li>P&aacute;gina web optimizada para SEO y dispositivos m&oacute;viles</li>
+            <li>Optimizaci&oacute;n de la p&aacute;gina de Instagram</li>
+            <li>Sistema de reservas y booking online</li>
+            <li>Sistema y estrategia para gesti&oacute;n y atenci&oacute;n de clientes</li>
+            <li>Estrategia para creaci&oacute;n de contenido para redes sociales consistente con la marca</li>
+          </ul>
           <p className="max-w-lg text-lg leading-relaxed text-[#3c4947] mb-12">
-            Creamos la infraestructura digital (pagina web optimizada, pagina de instagram optimizada, sistema de reservas online y embudos de venta) sin pago inicial. Una vez que desmostremos resultados positivos, podemos negociar una mensualidad para la ejecuci&oacute;n de la estrategia de marketing y contenido para social media, as&iacute; como el mantenimiento y optimizaci&oacute;n de la infraestructura digital.
+
+            <span className="font-bold italic">Sin pago inicial</span>. Una vez que desmostremos resultados positivos, pasamos a negociar una mensualidad para la ejecuci&oacute;n de la estrategia de marketing y contenido para social media, as&iacute; como el mantenimiento y optimizaci&oacute;n constante de la infraestructura digital. En caso de que no est&eacute;n satisfechos con nuestros servicios, cancelamos el servicio y no cobramos nada.
           </p>
           <br/>
           <p>A continuaci&oacute;n te mostramos un par de ejemplos de landing pages que creamos para la posada Oasis La Tortuga, para que te des una idea de la calidad de nuestro trabajo. Ten en cuenta que el resultado final ser&iacute;a incluso mejor, ya que puliriamos el dise&ntilde;o y el mensaje para que represente a la posada Oasis la Tortuga lo mejor posible</p>
