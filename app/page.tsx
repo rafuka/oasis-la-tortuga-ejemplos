@@ -48,7 +48,7 @@ export default function Home() {
           <p>A continuaci&oacute;n te mostramos un par de ejemplos de landing pages que creamos para la posada Oasis La Tortuga, para que te des una idea de la calidad de nuestro trabajo. Ten en cuenta que el resultado final ser&iacute;a incluso mejor, ya que puliriamos el dise&ntilde;o y el mensaje para que represente a la posada Oasis la Tortuga lo mejor posible</p>
         </header>
 
-        <ul className="flex flex-col gap-4">
+        <ul id="ejemplos" className="flex flex-col gap-4">
           {examples.map((item) => (
             <li key={item.href}>
               <Link
