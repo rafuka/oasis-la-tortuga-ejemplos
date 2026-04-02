@@ -28,7 +28,7 @@ const examples = [
 
 export default function Home() {
   return (
-    <div className="min-h-[100dvh] bg-[#f8f9fa] text-[#191c1d]">
+    <div className="min-h-[100dvh] bg-[#f8f9fa] text-[#191c1d] ">
       <main className="mx-auto flex max-w-2xl flex-col gap-10 px-6 py-16 sm:py-24">
         <header className="space-y-3">
           <h1 className="text-5xl mb-12 tracking-tight text-[#191c1d] [font-family:var(--font-noto-serif)]">
@@ -41,7 +41,9 @@ export default function Home() {
           </p>
           <h2 className="text-3xl [font-family:var(--font-noto-serif)]">Propuesta</h2>
           <p className="max-w-xl text-lg leading-relaxed text-[#3c4947] mb-12">
-            En esencia, nosotros nos encargar&iacute;amos de optimizar los canales digitales para generar reservas, sin que ustedes tengan que preocuparse al respecto. Proponemos crear un sitio web moderno, optimizado para SEO y dispositivos m&oacute;viles, con un sistema centralizado de reservas y booking online, as&iacute; como optimizaci&oacute;n de la p&aacute;gina de Instagram. Trazamos una estrategia de marketing digital y creaci&oacute;n de contenido que establezca la marca e identidad de la posada de manera consistente, y que &uacute;ltimamente atraiga a m&aacute;s clientes, aumente las ganancias, y establezca un sentido robusto de la marca.
+            En esencia, nosotros nos encargar&iacute;amos de optimizar los canales digitales para generar reservas, sin que ustedes tengan que preocuparse al respecto.
+            <br/><br/>Proponemos crear un sitio web moderno, optimizado para SEO y dispositivos m&oacute;viles, con un sistema centralizado de reservas y booking online, as&iacute; como optimizaci&oacute;n de la p&aacute;gina de Instagram.
+            <br/><br/>Trazamos una estrategia de marketing digital y creaci&oacute;n de contenido que establezca la marca e identidad de la posada de manera consistente, y que finalmente atraiga a m&aacute;s clientes, aumente las ganancias, y establezca un sentido robusto de la marca.
           </p>
           <h2 className="text-3xl [font-family:var(--font-noto-serif)]">Nuestra oferta</h2>
           <p className="max-w-xl text-lg leading-relaxed text-[#3c4947] mb-12">
