@@ -29,7 +29,7 @@ export default function Home() {
     <div className="min-h-[100dvh] bg-[#f8f9fa] text-[#191c1d]">
       <main className="mx-auto flex max-w-2xl flex-col gap-10 px-6 py-16 sm:py-24">
         <header className="space-y-3">
-          <h1 className="text-2xl mb-12 tracking-tight text-[#191c1d] sm:text-5xl [font-family:var(--font-noto-serif)]">
+          <h1 className="text-5xl mb-12 tracking-tight text-[#191c1d] [font-family:var(--font-noto-serif)]">
             Propuesta para infraestructura digital y estrategia de ventas para la posada Oasis La Tortuga
           </h1>
           <h2 className="text-3xl [font-family:var(--font-noto-serif)]">Situaci&oacute;n actual</h2>
