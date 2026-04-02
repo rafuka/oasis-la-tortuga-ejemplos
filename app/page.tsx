@@ -33,15 +33,15 @@ export default function Home() {
             Propuesta para infraestructura digital y estrategia de ventas para la posada Oasis La Tortuga
           </h1>
           <h2 className="text-3xl [font-family:var(--font-noto-serif)]">Situaci&oacute;n actual</h2>
-          <p className="max-w-lg text-lg leading-relaxed text-[#3c4947]">
+          <p className="max-w-lg text-lg leading-relaxed text-[#3c4947] mb-12">
             La posada Oasis La Tortuga no tiene una infraestructura digital robusta. El sitio web esta desactualizado, no tiene un sistema centralizado de reservas y booking online. Tiene una pagina de Instagram con contenido pero no es optimizada para SEO y no tiene un sistema de marketing digital robusto.
           </p>
           <h2 className="text-3xl [font-family:var(--font-noto-serif)]">Propuesta</h2>
-          <p className="max-w-lg text-lg leading-relaxed text-[#3c4947]">
-            Creamos la infraestructura: un sitio web moderno, optimizado para SEO, con un sistema centralizado de reservas y booking online, asi como optimizaci&oacute;n de la pagina de Instagram. Trazamos una estrategia de marketing digital y creaci&oacute;n de contenido que establezca la marca e identidad de la posada de manera consistente, y que &uacute;ltimamente atraiga a clientes y aumente las ganancias.
+          <p className="max-w-lg text-lg leading-relaxed text-[#3c4947] mb-12">
+            Hay mucho potencial para crecimiento: proponemos crear un sitio web moderno, optimizado para SEO y dispositivos m&oacute;viles, con un sistema centralizado de reservas y booking online, as&iacute; como optimizaci&oacute;n de la p&aacute;gina de Instagram. Trazamos una estrategia de marketing digital y creaci&oacute;n de contenido que establezca la marca e identidad de la posada de manera consistente, y que &uacute;ltimamente atraiga a m&aacute;s clientes, aumente las ganancias, y establezca un sentido robusto de la marca.
           </p>
           <h2 className="text-3xl [font-family:var(--font-noto-serif)]">Nuestra oferta</h2>
-          <p className="max-w-lg text-lg leading-relaxed text-[#3c4947]">
+          <p className="max-w-lg text-lg leading-relaxed text-[#3c4947] mb-12">
             Creamos la infraestructura digital (pagina web optimizada, pagina de instagram optimizada, sistema de reservas online y embudos de venta) sin pago inicial. Una vez que desmostremos resultados positivos, podemos negociar una mensualidad para la ejecuci&oacute;n de la estrategia de marketing y contenido para social media, as&iacute; como el mantenimiento y optimizaci&oacute;n de la infraestructura digital.
           </p>
           <br/>
