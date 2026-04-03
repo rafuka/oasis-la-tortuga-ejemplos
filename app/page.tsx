@@ -65,7 +65,9 @@ export default function Home() {
           <br/>
           <p className="text-lg leading-relaxed text-[#3c4947] mb-2">A continuaci&oacute;n te mostramos un par de ejemplos de p&aacute;ginas web. Ten en cuenta que el resultado final ser&iacute;a incluso mejor, ya que puliriamos el dise&ntilde;o y el mensaje para que represente a Oasis la Tortuga lo mejor posible.</p>
           <br/>
-          <p className="text-lg leading-relaxed text-[#3c4947] mb-2">Para dar los pr&oacute;ximos pasos (o si tienes alguna duda) puedes agendar una llamada con nosotros. Gracias por tu atenci&oacute;n.</p>
+          <p className="text-lg leading-relaxed text-[#3c4947] mb-2">
+            Para dar los pr&oacute;ximos pasos (o si tienes alguna duda) puedes agendar una llamada con nosotros <a className="text-[#006a64] underline" href="https://calendly.com/aurawebdev/consultoria" target="_blank">haciendo click aqu&iacute;</a>. Gracias por tu atenci&oacute;n.
+          </p>
         </header>
 
         <ul id="ejemplos" className="flex flex-col gap-4">
